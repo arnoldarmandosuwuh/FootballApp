@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="next_match">#0682fd</color>
+    <color name="last_match">#51f575</color>
+    <color name="win_match">#060afd</color>
+    <color name="lose_match">#fd0606</color>
+    <color name="line_separator">#bfbcbc</color>
+    <color name="colorSecondaryText">#8e294e</color>
+</resources>
