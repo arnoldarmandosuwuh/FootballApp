@@ -1,0 +1,30 @@
+Unit Testing
+1. Melakukan test pada api repository
+2. Melakukan test list match presenter untuk mendapatkan data next match dan last match
+3. Melakukan test detail match presenter untuk mendapatkan data team home dan team away
+4. Melakukan test favorite match detail presenter untuk mendapatkan data team home dan team away yang tersimpan
+
+Instrumentation Testing
+1. Menampilkan recycleview untuk next match
+2. Membuka detail pada next match data ke 3
+3. Menambahkan match pada favorite
+4. Menampilkan pesan Added to favorite
+5. Kembali ke recycleview next match
+6. Melakukan swipedown
+7. Menampilkan recycleview untuk last match
+8. Membuka detail pada last match data ke 5
+9. Menambahkan match pada favorite
+10. Menampilkan pesan Added to favorite
+11. Kembali ke recycleview last match
+12. Melakukan swipedown
+13. Menampilkan recycleview untuk favorite match
+14. Membuka detail pada favorite match data ke 1
+15. Menghapus match dari favorite
+16. Menampilkan pesan Removed to favorite
+17. Melakukan swipedown
+18. Menampilkan recycleview untuk next match
+19. Membuka detail pada next match data ke 3
+20. Menambahkan match pada favorite
+21. Menampilkan pesan Added to favorite
+22. Kembali ke recycleview next match
+23. Melakukan swipedown

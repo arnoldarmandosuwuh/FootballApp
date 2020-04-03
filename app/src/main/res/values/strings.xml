@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FootballApp</string>
+    <string name="upcoming">Upcoming Match</string>
+    <string name="last">Last Match</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">Favorites</string>
+</resources>
